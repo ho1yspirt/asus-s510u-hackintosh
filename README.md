@@ -11,3 +11,6 @@ wifi Intel AC 8265
 - trackpad dies sometimes (its random)
 
 use MacBookPro15,2 profile
+
+# Warning!
+I lost access to this devices, so I may never update or modify this repo.
